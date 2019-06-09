@@ -1,0 +1,22 @@
+.body{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    margin: 0 auto;
+    max-width: 100%;
+    min-width: 320px;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+a, ul, li{
+    text-decoration: none;
+    list-style: none;
+}
+
+a, button, input{
+    outline: none;
+}
