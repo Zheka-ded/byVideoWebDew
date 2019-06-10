@@ -1,0 +1,23 @@
+.sliderSliderPage{
+    width: 360px;
+    height: 125px;
+    border: 5px solid #000;
+    margin: 50px auto;
+    overflow: hidden;
+}
+
+.lineSliderPage{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    width: max-content;
+
+    // background: blueviolet;
+    // width: auto;
+    // width: 720px;
+}
+
+.imgSliderPage{
+    width: 120px;
+    height: 120px;
+}
